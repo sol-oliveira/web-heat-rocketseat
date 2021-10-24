@@ -37,7 +37,7 @@ export function MessageList() {
                                 <div className={styles.userImg}>
                                     <img src={message.user.avatar_url} alt={message.user.name} />
                                 </div>
-                                <span>{message.user.name || "Sol Oliveira"}</span>
+                                <span>{message.user.name || "Quisque euismod"}</span>
                             </div>
                         </li>
                     );
