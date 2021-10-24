@@ -1,6 +1,6 @@
 import { useContext, useEffect } from 'react';
 import { VscGithubInverted } from 'react-icons/vsc';
-import { AuthContext } from '../../context/auth';
+import { AuthContext } from '../../contexts/auth';
 
 import styles from './styles.module.scss';
 
